@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_mysql_express_route",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodeJS_environement_route_url_express_mySql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
